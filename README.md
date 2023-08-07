@@ -4,9 +4,9 @@ Como um engenheiro eletricista apaixonado por desafios e inovação, estou trilh
 Um Pouco Sobre Mim:
 Com uma sólida experiência de mais de uma década em Engenharia Elétrica, estou empolgado(a) em aplicar meus conhecimentos técnicos e habilidades analíticas na solução de problemas de TI. Minha trajetória inclui:
 
-• Projeto e implementação de sistemas elétricos complexos.
-• Soluções inovadoras para otimização de recursos energéticos.
-• Trabalho em equipe e liderança em projetos desafiadores.
+• Projeto e implementação de sistemas elétricos complexos. <br>
+• Soluções inovadoras para otimização de recursos energéticos. <br>
+• Trabalho em equipe e liderança em projetos desafiadores. <br>
 
 Minha Nova Jornada:
 Decidi embarcar em uma nova aventura na área de Tecnologia da Informação, onde estou me dedicando ao estudo aprofundado de Python e Node.js. Através de cursos, projetos e experimentação prática, estou construindo uma base sólida para me tornar um desenvolvedor eficaz e colaborativo.
