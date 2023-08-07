@@ -28,7 +28,7 @@ Vamos codar e construir algo incrível! 💻🚀
   </a>
 </div>
 
-### Technologies / Tecnologias ###
+### Tecnologias ###
 <div dir="auto">
   <br>
   <a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg"><img align="center" alt="Windows" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" style="max-width: 100%;"></a>
@@ -40,7 +40,7 @@ Vamos codar e construir algo incrível! 💻🚀
 </br>
 </div>
 
-### Professional Network / Rede Profissional ###
+### Rede Profissional ###
 <div dir="auto">
 <br>
 <a href="https://www.linkedin.com/in/leonardo-de-souza-pessanha-da-costa/" type=""> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="minha-rede"/> </a>
